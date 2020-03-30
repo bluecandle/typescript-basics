@@ -1,0 +1,10 @@
+{
+  "name": "typescript-basics",
+  "version": "1.0.0",
+  "description": "typescript-basics with implementing blockchain",
+  "main": "index.js",
+  "repository": "https://github.com/bluecandle/typescript-basics.git",
+  "author": "jinyeong kim",
+  "license": "MIT",
+  "private": false
+}
