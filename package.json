@@ -6,5 +6,15 @@
   "repository": "https://github.com/bluecandle/typescript-basics.git",
   "author": "jinyeong kim",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "start": "tsc-watch --onSuccess \" node dist/index.js\" "
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.2.3"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "typescript": "^3.8.3"
+  }
 }
